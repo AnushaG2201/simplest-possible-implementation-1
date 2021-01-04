@@ -1,12 +1,9 @@
-public class PrimeFactors{
-public static void main(String args[])
-{
-public List<Integers> findPrimeFactorsOfANumber(int numberToBeTested)
-{
-List <Integer> result=new ArrayList<Integer>();
-if(numberToBeTested==1){
-return List;
-}
-}
-}
+import java.util.ArrayList;
+import java.util.List;
+
+public class PrimeFactors {
+    public static List<Integer> primeFactorCheck(int i) {
+        List<Integer> result = new ArrayList<>();
+        return result;
+    }
 }
